@@ -10,7 +10,6 @@ window.onload = function () {
     $("body").append('<div id="divTag"></div>')
     $("#divTag").append('<h1 id="heading">' + "Times of India" + '<h1>')
     $("#divTag").append('<ul id="list"  class ="nav nav-tabs"></ul>')
-    $("#divTag").css("class", "container");
     $("#divTag").css("width", "300px");
     $("#divTag").css("background-color", "#141212");
     $("#divTag").css("border", " 2px solid black");

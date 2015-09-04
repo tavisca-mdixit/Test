@@ -57,7 +57,6 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="CSS\StyleSheet1.css" />
     <Content Include="HTML\Index.html" />
     <Content Include="JS\Widget.js" />
     <Content Include="Web.config" />
